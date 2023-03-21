@@ -1,0 +1,8 @@
+* {
+	--hue: 213;
+
+	--surface-1-color: var(--hue) 97% 87%;
+	--surface-2-color: var(--hue) 97% 67%;
+	--copy-base-color: var(--hue) 6% 67%;
+	--emphasis-color: var(--hue) 87% 57%;
+}
